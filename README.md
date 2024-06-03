@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+ZeroTwo🥰....;Cat+Lover+:3;Computer+Engineer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<a href="https://discord.gg/pochita"><img src="https://media.discordapp.net/attachments/861406641046945842/1180332450782646373/zero_two_banner_by_abilenebrabbit_deprleq-fullview.png?ex=657d0941&is=656a9441&hm=9b60ed1bc85f240911451929b37e96434ff56fa4ad4ee8b65d0c82cdf5d4a7ae&=&format=webp&quality=lossless&width=1440&height=294" width="100%" height="auto"/></a>
+<a href="https://discord.gg/pochita"><img src="https://pin.it/6Obt400jW" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCl9pv6Ag9bLsZ-97uR2zBDQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -61,7 +61,7 @@ Hi 👋, I am **ZeroTwo** an enthusiastic and ambitious full stack developer, an
 
 <details>
 <summary>Click here for a cute surprise! :3</summary>
-<img src="https://cat-gifs.cyclic.app">
+<img src="https://pin.it/3O5cyUyz6">
 </details>
 
 
