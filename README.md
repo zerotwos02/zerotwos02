@@ -61,7 +61,7 @@ Hi 👋, I am **ZeroTwo** an enthusiastic and ambitious full stack developer, an
 
 <details>
 <summary>Click here for a cute surprise! :3</summary>
-<img src="https://pin.it/3O5cyUyz6">
+<img src="https://media3.giphy.com/media/NfzERYyiWcXU4/giphy.gif?cid=6c09b9522sx9p64clr8pfqh5ty5wbz9ahkp5mdmaeidfsxd8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </details>
 
 
