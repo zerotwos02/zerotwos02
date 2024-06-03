@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+ZeroTwo🥰....;Cat+Lover+:3;Computer+Engineer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<a href="https://discord.gg/pochita"><img src="https://media3.giphy.com/media/NfzERYyiWcXU4/giphy.gif?cid=6c09b9522sx9p64clr8pfqh5ty5wbz9ahkp5mdmaeidfsxd8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="auto"/></a>
+<a href="https://discord.gg/pochita"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17834177-ab8c-41f1-b971-92a2d05ac63e/deprleq-14216f8a-1537-4dd9-9837-0eb9e793f5f3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3ODM0MTc3LWFiOGMtNDFmMS1iOTcxLTkyYTJkMDVhYzYzZVwvZGVwcmxlcS0xNDIxNmY4YS0xNTM3LTRkZDktOTgzNy0wZWI5ZTc5M2Y1ZjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.atvuGU_1Iq_rhq7h8_fIh6LGpzDtm3EC0Tp9l2hHJhY" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCl9pv6Ag9bLsZ-97uR2zBDQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
